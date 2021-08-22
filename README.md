@@ -1,4 +1,4 @@
-### Hi there I'm [Akhil!](https://thureinhtun.me)👋
+### Hi there I'm [ThuReinHtoon!](https://thureinhtun.me)👋
 I'm Akhil ThuReinTun, a 22-year old technical enthusiast who does web development. Passionate to contribute open-source projects and make cool products.<br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/thu-rein-htoon-b44246214) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Thureinhtoon) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://www.facebook.com/profile.php?id=100010375337760) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/profile.php?id=100010375337760)
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 
 
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
+![ThuReinHtoon's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
 
 ⭐️ From [AkhilGKrishnan](https://github.com/AkhilGKrishnan)
